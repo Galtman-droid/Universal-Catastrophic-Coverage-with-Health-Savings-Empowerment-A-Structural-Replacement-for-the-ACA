@@ -81,3 +81,18 @@ Publication-grade table and figure outputs.
 Analytical Purpose
 
 This repository is intended to provide a reproducible analytical basis for evaluating UCC/HSE’s provider-sector and federal-budget implications. It is not a final CBO score, actuarial certification, or hospital-closure forecast. It is a transparent modeling framework designed to support policy review, stress testing, replication, and further refinement by economists, health-policy analysts, congressional staff, actuaries, and institutional reviewers.
+
+
+# Processed Public Master Files
+
+This folder contains curated processed `.rds` files used to reproduce the UCC/HSE HCRIS provider-impact tables without rerunning the full raw HCRIS extraction pipeline.
+
+Raw CMS HCRIS files are not included in this repository. The full pipeline can be rerun from raw FY2024 HCRIS files using the scripts in `/Scripts`, but these master files allow reviewers to reproduce Table 7 outputs directly from the cleaned provider-level objects.
+
+Included files:
+- `provider_master_final.rds`
+- `provider_financial_master_final.rds`
+- `provider_master_with_stabilization.rds`
+- `provider_impact_scenarios_all.rds`
+- `provider_impact_basebase.rds`
+- `table7_access_protection_summary.rds`
