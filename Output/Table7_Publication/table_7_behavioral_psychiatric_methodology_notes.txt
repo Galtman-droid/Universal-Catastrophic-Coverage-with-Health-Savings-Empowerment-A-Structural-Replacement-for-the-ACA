@@ -1,0 +1,38 @@
+Psychiatric / behavioral provider sensitivity methodology notes
+==============================================================
+
+Build year: 2024
+Generated: 2026-05-05 16:36:44.267697
+
+This sensitivity isolates providers classified as Psychiatric / behavioral hospital in the cleaned provider class.
+It does not rebuild Tables 7A-7L.
+
+Policy rationale:
+The worst remaining provider-level impacts after general transition and rural-access sensitivities are concentrated among psychiatric / behavioral providers, including state psychiatric institutions.
+These institutions may not be ordinary outpatient/routine market repricing targets.
+The sensitivity therefore tests whether the behavioral impact problem is driven by repricing-exposure assumptions, by a need for an essential behavioral-health access floor, or both.
+
+Scenario A:
+Current Base/Base treatment with 100 percent of modeled repricing pressure.
+
+Scenario B:
+Reduced behavioral exposure. Behavioral providers are assigned 50 percent of the modeled repricing pressure.
+
+Scenario C:
+Minimal behavioral market exposure. Behavioral providers are assigned 25 percent of the modeled repricing pressure.
+
+Scenario D:
+Behavioral essential-access floor. Current repricing is retained, but net impact is not allowed to fall below -7.5 percent of NPR.
+
+Scenario E:
+Combined moderate behavioral adjustment: 50 percent repricing pressure plus a -7.5 percent NPR floor.
+
+Scenario F:
+Strong behavioral carveout: 25 percent repricing pressure plus a -5.0 percent NPR floor.
+
+Interpretive rule:
+If reduced repricing exposure substantially resolves the behavioral outliers, the issue is likely a modeling/exposure classification issue.
+If a floor is still required, the policy may need a behavioral essential-access carveout.
+
+Recommended use:
+Do not fold behavioral treatment into the rural guarantee. Rural access and behavioral institutional access are separate policy problems.

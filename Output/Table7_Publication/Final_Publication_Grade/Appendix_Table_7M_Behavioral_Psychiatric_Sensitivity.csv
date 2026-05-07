@@ -1,0 +1,7 @@
+Scenario,Behavioral Providers,Repricing Treatment,Floor Treatment,Net Patient Revenue ($B),Original Repricing Pressure ($B),Scenario Repricing Pressure ($B),UC / Liquidity Offset ($B),Existing Stabilization Support ($B),Added Behavioral Support ($B),Net Behavioral Impact After Scenario ($B),Net Impact After Scenario (% of NPR),Median Behavioral Provider Impact (% of NPR),Providers Below -5% NPR,Providers Below -10% NPR,Negative Providers,Positive Providers
+A. Current Base/Base treatment,93,100% modeled repricing pressure,No behavioral floor,$4.68,-$0.06,$0.00,$0.00,$0.00,$0.00,-$0.06,-1.3%,-1.0%,24.0%,11.0%,93,0
+B. Reduced behavioral exposure: 50% repricing pressure,93,50% modeled repricing pressure,No behavioral floor,$4.68,-$0.06,$0.00,$0.00,$0.00,$0.00,-$0.03,-0.7%,-0.5%,11.0%,6.0%,93,0
+C. Minimal behavioral exposure: 25% repricing pressure,93,25% modeled repricing pressure,No behavioral floor,$4.68,-$0.06,$0.00,$0.00,$0.00,$0.00,-$0.02,-0.3%,-0.2%,6.0%,2.0%,93,0
+D. Behavioral essential-access floor at -7.5% NPR,93,100% modeled repricing pressure,Floor at -7.5% NPR,$4.68,-$0.06,$0.00,$0.00,$0.00,$0.01,-$0.06,-1.2%,-1.0%,24.0%,0.0%,93,0
+E. 50% repricing pressure + -7.5% NPR floor,93,50% modeled repricing pressure,Floor at -7.5% NPR,$4.68,-$0.06,$0.00,$0.00,$0.00,$0.00,-$0.03,-0.6%,-0.5%,11.0%,0.0%,93,0
+F. 25% repricing pressure + -5.0% NPR floor,93,25% modeled repricing pressure,Floor at -5.0% NPR,$4.68,-$0.06,$0.00,$0.00,$0.00,$0.00,-$0.01,-0.3%,-0.2%,6.0%,0.0%,93,0

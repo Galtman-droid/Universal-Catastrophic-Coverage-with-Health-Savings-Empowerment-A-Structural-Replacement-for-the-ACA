@@ -1,0 +1,25 @@
+Case,Protection Design,Sunset Treatment,Provider Group,Providers,Providers Below -5% NPR,Providers Below -10% NPR,Negative Providers,Positive Providers,Temporary Support ($B),Permanent Rural Access Support ($B),Total Added Support ($B),Net Provider Impact ($B),Net Impact (% of NPR),Median Impact (% of NPR)
+A,Current Base/Base,No additional support,Children's / pediatric,73,20,0,71,2,0,0,0,-0.24,-3.8,-4
+A,Current Base/Base,No additional support,General acute / academic,604,256,1,600,4,0,0,0,-10.58,-4.4,-4.7
+A,Current Base/Base,No additional support,Rural / CAH / IHS,68,10,0,66,2,0,0,0,-0.34,-3.1,-2.7
+A,Current Base/Base,No additional support,Specialty / behavioral / rehab,141,34,12,139,2,0,0,0,-0.15,-2,-1
+B,Temporary large-negative-impact add-on,Temporary; sunsets after transition,Children's / pediatric,73,20,0,71,2,0.01,0,0.01,-0.23,-3.7,-4
+B,Temporary large-negative-impact add-on,Temporary; sunsets after transition,General acute / academic,604,256,1,600,4,0.2,0,0.2,-10.37,-4.3,-4.7
+B,Temporary large-negative-impact add-on,Temporary; sunsets after transition,Rural / CAH / IHS,68,10,0,66,2,0,0,0,-0.34,-3.1,-2.7
+B,Temporary large-negative-impact add-on,Temporary; sunsets after transition,Specialty / behavioral / rehab,141,34,11,139,2,0,0,0,-0.15,-1.9,-1
+C,Temporary pediatric hold-harmless,Temporary; sunsets after transition,Children's / pediatric,73,0,0,71,2,0.09,0,0.09,-0.14,-2.3,-3
+C,Temporary pediatric hold-harmless,Temporary; sunsets after transition,General acute / academic,604,256,1,600,4,0,0,0,-10.58,-4.4,-4.7
+C,Temporary pediatric hold-harmless,Temporary; sunsets after transition,Rural / CAH / IHS,68,10,0,66,2,0,0,0,-0.34,-3.1,-2.7
+C,Temporary pediatric hold-harmless,Temporary; sunsets after transition,Specialty / behavioral / rehab,141,34,12,139,2,0,0,0,-0.15,-2,-1
+D,Permanent rural access guarantee,Permanent; formula-based and capped,Children's / pediatric,73,20,0,71,2,0,0,0,-0.24,-3.8,-4
+D,Permanent rural access guarantee,Permanent; formula-based and capped,General acute / academic,604,256,1,600,4,0,0,0,-10.58,-4.4,-4.7
+D,Permanent rural access guarantee,Permanent; formula-based and capped,Rural / CAH / IHS,68,6,0,60,8,0,0.08,0.08,-0.26,-2.3,-1.7
+D,Permanent rural access guarantee,Permanent; formula-based and capped,Specialty / behavioral / rehab,141,34,12,139,2,0,0,0,-0.15,-2,-1
+E,Temporary enhanced Tier 3 / Tier 4 stabilization,Temporary; sunsets after transition,Children's / pediatric,73,20,0,70,3,0,0,0,-0.23,-3.8,-4
+E,Temporary enhanced Tier 3 / Tier 4 stabilization,Temporary; sunsets after transition,General acute / academic,604,256,1,591,13,0.04,0,0.04,-10.54,-4.4,-4.6
+E,Temporary enhanced Tier 3 / Tier 4 stabilization,Temporary; sunsets after transition,Rural / CAH / IHS,68,10,0,66,2,0,0,0,-0.34,-3.1,-2.7
+E,Temporary enhanced Tier 3 / Tier 4 stabilization,Temporary; sunsets after transition,Specialty / behavioral / rehab,141,34,12,139,2,0,0,0,-0.15,-1.9,-1
+F,Combined temporary transition protection + permanent rural access guarantee,Temporary support sunsets; rural access support remains,Children's / pediatric,73,7,0,70,3,0.07,0,0.07,-0.17,-2.7,-3
+F,Combined temporary transition protection + permanent rural access guarantee,Temporary support sunsets; rural access support remains,General acute / academic,604,256,1,591,13,0.24,0,0.24,-10.34,-4.3,-4.6
+F,Combined temporary transition protection + permanent rural access guarantee,Temporary support sunsets; rural access support remains,Rural / CAH / IHS,68,6,0,60,8,0,0.08,0.08,-0.26,-2.3,-1.7
+F,Combined temporary transition protection + permanent rural access guarantee,Temporary support sunsets; rural access support remains,Specialty / behavioral / rehab,141,34,11,139,2,0.01,0,0.01,-0.14,-1.9,-1

@@ -1,0 +1,36 @@
+Provider Group,Provider Impact Bucket (% of NPR),Providers,Net Patient Revenue ($B),Net Provider Impact ($B),Median Provider Impact (% of NPR)
+All modeled providers,"",66,$6.59,-$0.03,-0.1%
+All modeled providers,"",307,$78.03,-$4.77,-6.5%
+All modeled providers,"",134,$21.35,-$0.35,-1.0%
+All modeled providers,"",356,$157.71,-$6.18,-4.0%
+All modeled providers,"",4,$0.44,$0.00,0.8%
+All modeled providers,"",3,$0.16,$0.00,1.3%
+All modeled providers,"",2,$0.57,$0.03,4.6%
+All modeled providers,"",13,$0.05,-$0.01,-18.2%
+All modeled providers,"",1,$0.02,$0.00,21.9%
+Children's / pediatric,"",9,$0.39,$0.00,-0.8%
+Children's / pediatric,"",20,$2.17,-$0.14,-7.1%
+Children's / pediatric,"",7,$1.76,-$0.03,-1.6%
+Children's / pediatric,"",35,$1.72,-$0.07,-4.0%
+Children's / pediatric,"",2,$0.11,$0.00,0.5%
+General acute / academic,"",21,$4.61,-$0.02,-0.3%
+General acute / academic,"",255,$74.48,-$4.54,-6.4%
+General acute / academic,"",63,$15.01,-$0.27,-1.0%
+General acute / academic,"",260,$144.90,-$5.78,-4.0%
+General acute / academic,"",1,$0.28,$0.00,0.8%
+General acute / academic,"",2,$0.14,$0.00,1.5%
+General acute / academic,"",1,$0.54,$0.03,4.6%
+General acute / academic,"",1,$0.00,$0.00,-11.7%
+Rural / CAH / IHS,"",6,$0.11,$0.00,-0.5%
+Rural / CAH / IHS,"",10,$0.39,-$0.03,-6.7%
+Rural / CAH / IHS,"",3,$0.25,$0.00,-2.0%
+Rural / CAH / IHS,"",47,$10.30,-$0.31,-2.7%
+Rural / CAH / IHS,"",1,$0.05,$0.00,0.8%
+Rural / CAH / IHS,"",1,$0.02,$0.00,1.3%
+Specialty / behavioral / rehab,"",30,$1.48,$0.00,0.0%
+Specialty / behavioral / rehab,"",22,$0.99,-$0.07,-7.5%
+Specialty / behavioral / rehab,"",61,$4.33,-$0.05,-1.0%
+Specialty / behavioral / rehab,"",14,$0.79,-$0.03,-3.5%
+Specialty / behavioral / rehab,"",1,$0.03,$0.00,4.5%
+Specialty / behavioral / rehab,"",12,$0.04,-$0.01,-20.0%
+Specialty / behavioral / rehab,"",1,$0.02,$0.00,21.9%

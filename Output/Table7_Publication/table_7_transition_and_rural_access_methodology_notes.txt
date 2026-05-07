@@ -1,0 +1,47 @@
+Table 7G-7J transition-protection and rural-access methodology notes
+====================================================================
+
+Build year: 2024
+Generated: 2026-05-05 16:36:42.665313
+
+These tables are sensitivity analyses layered on top of the corrected Base/Base provider-impact model.
+They do not rebuild the core provider-impact model and do not alter Tables 7A-7F.
+
+Core Base/Base equation:
+Net Provider Impact = - Market Repricing Pressure + UC/Liquidity Offset + Bounded Stabilization Support.
+
+Policy distinction:
+Temporary transition stabilization and permanent rural access support are treated separately.
+
+Temporary transition stabilization addresses short-run adjustment stress created by the movement from comprehensive insurance to UCC/HSE routine-care price discipline.
+Permanent rural access support addresses structural rural access constraints that do not disappear after transition: low volume, fixed standby costs, large service areas, workforce constraints, and lack of substitute providers.
+
+Case A: Current Base/Base
+No additional support beyond the original bounded stabilization layer.
+
+Case B: Temporary large-negative-impact add-on
+Providers with net impact at or below -5% of net patient revenue receive an add-on equal to 25% of the loss beyond that threshold, capped at 1% of NPR. This support sunsets after transition.
+
+Case C: Temporary pediatric hold-harmless
+Children's / pediatric providers receive enough support to prevent modeled net impact from being worse than -3% of NPR. This support sunsets after transition.
+
+Case D: Permanent rural access guarantee
+Rural / CAH / IHS providers receive a permanent rural access payment equal to 1% of NPR, capped at $3e+06 per provider annually. This support does not automatically sunset.
+
+Case E: Temporary enhanced Tier 3 / Tier 4 stabilization
+Tier 3 providers receive an incremental 0.5% of NPR; Tier 4 providers receive an incremental 1% of NPR. This support sunsets after transition.
+
+Case F: Combined transition protection + permanent rural access guarantee
+Combines temporary large-negative-impact protection, pediatric hold-harmless, Tier 3 / Tier 4 enhancement, and permanent rural access support. Temporary support is capped at 2.5% of NPR per provider. Rural access support remains as a permanent formula-based access-capacity payment.
+
+Interpretive rule:
+The goal is not to hold every provider harmless. The goal is to prevent essential-provider collapse during transition while preserving price discipline.
+
+Recommended policy framing:
+Temporary support for transition losses; permanent support for essential rural access.
+
+Optional repricing phase-in fields:
+Year 1 repricing phase-in factor: 40%
+Year 2 repricing phase-in factor: 60%
+Year 3 repricing phase-in factor: 80%
+Year 4+ repricing phase-in factor: 100%

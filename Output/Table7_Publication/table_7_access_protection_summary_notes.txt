@@ -1,0 +1,32 @@
+Table 7G Access-Protection Policy Summary Notes
+================================================
+
+Build year: 2024
+Generated: 2026-05-05 16:36:44.67595
+
+Purpose:
+This script creates a publication-facing summary of targeted access-protection options for UCC/HSE Table 7.
+It does not rebuild the provider-impact model.
+
+Core provider-impact model:
+Net Provider Impact = - Market Repricing Pressure + UC/Liquidity Offset + Bounded Stabilization Support.
+
+Preferred rural policy:
+Enhanced rural access guarantee plus implementation-period rural floor.
+Permanent component: 2% of NPR, capped at $5 million per rural provider.
+Implementation-period component: no qualifying rural / CAH / IHS provider below -1.5% of NPR.
+Model result: added rural support of $0.218B; rural net impact after support of $-0.123B; rural impact of -1.1% of NPR; rural providers below -5% NPR: 0.
+
+Preferred behavioral policy:
+Behavioral institutional repricing adjustment plus implementation-period floor.
+Structural modeling adjustment: qualifying psychiatric / behavioral institutions receive 25% of standard modeled repricing pressure.
+Implementation-period component: no qualifying psychiatric / behavioral provider below -5% of NPR.
+Model result: behavioral net impact after scenario of $-0.015B; behavioral impact of -0.3% of NPR; providers below -10% NPR: 0.
+
+Interpretive distinction:
+Rural protection is a permanent access-capacity payment because rural access vulnerability is structural.
+Behavioral protection is primarily a repricing-exposure adjustment because many institutional psychiatric providers are not ordinary consumer-directed routine outpatient price-shopping targets.
+
+Recommended table placement:
+Use Table 7G as the main access-protection policy summary.
+Move the full rural and behavioral sensitivity tables to appendix tables unless space allows.

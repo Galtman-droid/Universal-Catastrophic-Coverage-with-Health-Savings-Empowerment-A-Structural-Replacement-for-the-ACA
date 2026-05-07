@@ -1,0 +1,30 @@
+Access-Protection Formula Notes
+===============================
+
+Core provider-impact equation:
+Net Provider Impact_i,s = - Market Repricing Pressure_i,s + UC/Liquidity Offset_i,s + Bounded Stabilization Support_i,s
+
+Preferred rural access protection:
+Preferred Rural Protection_i = Permanent Rural Access Guarantee_i + Rural Implementation Floor Support_i
+
+Permanent Rural Access Guarantee_i = min(0.02 x NPR_i, $5,000,000)
+
+Net Impact After Rural Guarantee_i = Net Provider Impact_i + Permanent Rural Access Guarantee_i
+
+Rural Implementation Floor Support_i = max(0, (-0.015 x NPR_i) - Net Impact After Rural Guarantee_i)
+
+Preferred Rural Adjusted Net Impact_i = Net Impact After Rural Guarantee_i + Rural Implementation Floor Support_i
+
+Preferred behavioral institutional treatment:
+Behavioral Adjusted Repricing Pressure_i = 0.25 x Market Repricing Pressure_i
+
+Behavioral Pre-Floor Net Impact_i = - Behavioral Adjusted Repricing Pressure_i + UC/Liquidity Offset_i + Bounded Stabilization Support_i
+
+Behavioral Floor Support_i = max(0, (-0.05 x NPR_i) - Behavioral Pre-Floor Net Impact_i)
+
+Preferred Behavioral Adjusted Net Impact_i = Behavioral Pre-Floor Net Impact_i + Behavioral Floor Support_i
+
+Policy distinction:
+Rural access guarantee is permanent, capped, and formula-based.
+Rural floor and behavioral floor are implementation-period or reviewable protections.
+Behavioral repricing adjustment is a structural exposure adjustment, not a general provider bailout.

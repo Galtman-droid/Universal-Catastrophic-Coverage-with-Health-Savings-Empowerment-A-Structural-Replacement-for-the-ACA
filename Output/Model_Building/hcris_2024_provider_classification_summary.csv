@@ -1,0 +1,18 @@
+raw_provider_model_class,clean_provider_model_class,clean_provider_group,providers,revenue_use_for_model,total_beds,gross_total_patient_revenue,net_patient_revenue,net_outpatient_exposure_base,uncompensated_care_cost,stabilization_eligible_internal
+Children's hospital,Children's / pediatric hospital,Children's / pediatric,71,66,3279,13787859735,3304075295,1784644068.33262,59726986,71
+Critical access hospital,Children's / pediatric hospital,Children's / pediatric,6,3,367,706560147,358585765,185725186.153184,0,6
+Short-term acute/general hospital,Children's / pediatric hospital,Children's / pediatric,6,4,1056,9168671149,2489360513,990678788.999444,61670256,6
+Critical access hospital,Academic / major medical center,General acute / academic,34,34,17806,216292252452,62890746920,33255771174.9158,1412425690,32
+Short-term acute/general hospital,Academic / major medical center,General acute / academic,6,6,3338,33366188113,7829720169,3042653948.29205,310109278,6
+Critical access hospital,Large hospital misclassified as CAH,General acute / academic,53,53,13004,32646895929,8887547662,2894313755.63084,153885191,12
+Short-term acute/general hospital,Short-term acute/general hospital,General acute / academic,525,511,88162,685944629880,160361597762,87037483197.0713,5479473206,505
+Critical access hospital,CAH candidate - internally safe,Rural / CAH / IHS,16,16,272,820279814,422459619,223693773.836886,11559547,16
+Children's hospital,Rural primary care / IHS-like hospital,Rural / CAH / IHS,1,1,40,38065911,21498704,9674416.8,0,1
+Critical access hospital,Rural primary care / IHS-like hospital,Rural / CAH / IHS,1,1,335,116733530,65740777,11673353,0,1
+Rural primary care hospital,Rural primary care / IHS-like hospital,Rural / CAH / IHS,42,42,1546,7415252061,6976147843,2069066352.18783,464847,42
+Short-term acute/general hospital,Rural primary care / IHS-like hospital,Rural / CAH / IHS,8,8,1527,14801950747,3631521798,1791821769.09762,100275881,8
+Critical access hospital,Non-CAH specialty/other in CAH bucket,Specialty / behavioral / rehab,30,30,1863,4881641042,1873209620,984393385.781034,95690096,0
+Critical access hospital,Psychiatric / behavioral hospital,Specialty / behavioral / rehab,92,91,15543,7379123952,4592531101,597272932.905459,38373,0
+Short-term acute/general hospital,Psychiatric / behavioral hospital,Specialty / behavioral / rehab,3,2,176,233169437,92621145,31217486.4374325,0,0
+Critical access hospital,Rehab / LTCH / specialty hospital,Specialty / behavioral / rehab,3,3,35,176057680,89981172,16495010.0883782,34003,0
+Short-term acute/general hospital,Rehab / LTCH / specialty hospital,Specialty / behavioral / rehab,15,15,712,2395597739,1031661483,228021097.860421,2420026,0

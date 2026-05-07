@@ -1,0 +1,38 @@
+Enhanced Rural Access Guarantee methodology notes
+================================================
+
+Build year: 2024
+Generated: 2026-05-05 16:36:43.74013
+
+This sensitivity isolates rural / CAH / IHS providers from the corrected Base/Base provider-impact file.
+It does not rebuild Tables 7A-7J.
+
+Policy rationale:
+Rural access support is treated as a permanent access-capacity payment rather than ordinary transition stabilization.
+Rural providers face structural constraints that do not automatically disappear after transition: low volume, fixed standby costs, broad geographic service areas, workforce constraints, and lack of nearby substitute providers.
+
+Scenario A:
+Current Base/Base with no added rural access support.
+
+Scenario B:
+Current rural access guarantee equal to 1.0% of NPR, capped at $3 million per rural provider.
+
+Scenario C:
+Enhanced rural access guarantee equal to 2.0% of NPR, capped at $5 million per rural provider.
+
+Scenario D:
+High rural access guarantee equal to 3.0% of NPR, capped at $7.5 million per rural provider.
+
+Scenario E:
+Enhanced rural access guarantee plus a rural impact floor of -2.0% of NPR.
+
+Scenario F:
+Enhanced rural access guarantee plus a rural impact floor of -1.5% of NPR.
+
+Scenario G:
+High rural access guarantee plus a rural impact floor of -1.0% of NPR.
+
+Interpretive rule:
+The preferred central policy case is likely Scenario C or Scenario F, depending on how strongly the paper wants to protect rural providers.
+Scenario C is a permanent access-capacity payment.
+Scenario F adds a stronger rural transition floor and should be described as reviewable or implementation-period protection.

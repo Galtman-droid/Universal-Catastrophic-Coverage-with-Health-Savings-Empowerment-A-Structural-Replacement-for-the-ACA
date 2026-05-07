@@ -1,0 +1,16 @@
+Table,Title,Placement,Note
+Table 7A,Provider Impact 3x3 Scenario Matrix,Main paper,Shows modeled provider impact across low/base/high repricing and stabilization scenarios.
+Table 7B,Provider Impact by Provider Group under Base/Base Scenario,Main paper,Aggregates Base/Base provider impact by cleaned provider group.
+Table 7C,Provider Impact by Provider Class under Base/Base Scenario,Main paper,Disaggregates Base/Base provider impact by cleaned provider class.
+Table 7D,Distribution of Provider-Level Effects under Base/Base Scenario,Main paper,Shows the distribution of provider-level net impacts as a percentage of net patient revenue.
+Table 7E,Provider-Impact Model Coverage and Data Quality Audit,Main paper,"Reports model coverage, source-method counts, fallback use, and data-quality checks."
+Table 7F,Exposure-Anomaly Sensitivity under Base/Base Scenario,Main paper,Tests whether exposure-anomaly records materially change Base/Base results.
+Table 7G,Access-Protection Policy Options,Main paper,Summarizes preferred targeted access protections for rural and behavioral providers.
+Appendix Table 7G,Access-Protection Options Menu,Appendix,Shows menu of rural and behavioral access-protection options.
+Appendix Table 7J,Provider-Level Transition and Rural Access Sensitivity,Appendix,Provider-level output from the combined transition and rural access sensitivity.
+Appendix Table 7K,Enhanced Rural Access Sensitivity,Appendix,"Shows rural access-support options, including the preferred enhanced rural guarantee plus implementation floor."
+Appendix Table 7L,Rural Provider-Level Enhanced Access,Appendix,Provider-level rural access sensitivity output.
+Appendix Table 7M,Psychiatric / Behavioral Provider Sensitivity,Appendix,Shows behavioral institutional repricing options and floor options.
+Appendix Table 7N,Psychiatric / Behavioral Provider-Level Review,Appendix,Provider-level psychiatric / behavioral sensitivity output.
+Appendix Table 7O,Remaining Severe Psychiatric / Behavioral Effects,Appendix,Shows remaining severe behavioral impacts under each behavioral treatment scenario.
+Appendix Table 7P,Behavioral Review Universe,Appendix,Expanded behavioral review universe including name-flagged records outside the primary behavioral class.

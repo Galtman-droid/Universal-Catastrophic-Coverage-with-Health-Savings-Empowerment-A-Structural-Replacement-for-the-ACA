@@ -1,0 +1,23 @@
+Table 7 publication-grade methodology note
+========================================
+
+Build year: 2024
+Generated: 2026-05-05 16:36:45.328575
+
+The Table 7 package is based on the corrected FY2024 HCRIS provider-impact model.
+
+Core formula:
+Net Provider Impact = - Market Repricing Pressure + UC / Liquidity Offset + Bounded Stabilization Support.
+
+Preferred access-protection package:
+Rural: permanent rural access guarantee equal to 2% of NPR, capped at $5M per rural provider, plus an implementation-period rural floor at -1.5% NPR.
+Behavioral: institutional behavioral providers are assigned 25% of standard modeled repricing pressure, plus an implementation-period floor at -5% NPR.
+
+Interpretation:
+The preferred package is targeted. It preserves the main provider-side price-discipline mechanism while protecting rural access and correcting behavioral institutional exposure outliers.
+
+Suggested main-paper table sequence:
+Table 7A, Table 7B, Table 7C, Table 7D, Table 7E, Table 7F, Table 7G.
+
+Suggested appendix sequence:
+Appendix Table 7G, Appendix Table 7J, Appendix Table 7K, Appendix Table 7L, Appendix Table 7M, Appendix Table 7N, Appendix Table 7O, Appendix Table 7P.

@@ -1,0 +1,42 @@
+Table 7 methodology notes
+========================
+
+Build year: 2024
+Generated: 2026-05-05 16:36:41.903993
+
+Provider impact was estimated using FY2024 HCRIS hospital cost-report data.
+The model uses Worksheet G-2 and G-3 revenue fields to identify net patient revenue and outpatient/routine-care exposure.
+Standard acute hospitals were modeled using direct inpatient/outpatient revenue splits where available.
+For rural primary care, pediatric, and nonstandard specialty/behavioral/rehab-like records without validated outpatient splits, the model applies bounded fallback exposure assumptions.
+Providers were reclassified into cleaned analytical groups before scoring to avoid treating raw CAH-labeled records as true critical access hospitals when internal size, revenue, or name-based screens indicated academic, psychiatric, specialty, or other non-CAH status.
+Stabilization support is modeled as temporary, bounded transition protection based on cleaned provider class and uncompensated-care burden.
+Provisional operating-margin fields are retained for diagnostics but are not used to assign stabilization tiers.
+
+Core formula:
+Net Provider Impact = - Outpatient Repricing Pressure + UC/Liquidity Offset + Bounded Stabilization Support
+
+Definitions:
+Outpatient Repricing Pressure = outpatient/routine exposure x repricing scenario rate.
+UC/Liquidity Offset = S-10 uncompensated-care cost x scenario offset rate.
+Bounded Stabilization Support = bounded stabilization cap x stabilization scenario multiplier.
+
+Fallback exposure assumptions used by upstream Script 08:
+Rural fallback outpatient exposure share: low 20%, base 30%, high 40%.
+Children's fallback outpatient exposure share: low 30%, base 45%, high 60%.
+Nonstandard fallback outpatient exposure share: low 5%, base 10%, high 15%.
+
+Data-state checks from this export:
+Backbone providers: 912
+Modeled providers: 886
+Excluded providers: 26
+Modeled share: 97.1%
+Standard G-2 split records: 689
+Rural fallback records: 39
+Children's fallback records: 28
+Nonstandard fallback records: 130
+Nonstandard fallback failed plausibility records: 1
+Model-used net-to-gross outliers <=0 or >1.50: 0
+Exposure anomaly records from 11A: 79
+
+Publication note:
+Table 7A-7C should use all modeled providers. Table 7F provides a sensitivity excluding exposure-anomaly records identified in the 11A audit.

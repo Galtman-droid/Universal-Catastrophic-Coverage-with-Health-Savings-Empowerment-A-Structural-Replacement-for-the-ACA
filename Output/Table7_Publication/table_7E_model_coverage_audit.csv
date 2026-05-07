@@ -1,0 +1,20 @@
+Section,Metric,Value
+Overall data-state audit,Backbone providers,912
+Overall data-state audit,Modeled providers,886
+Overall data-state audit,Excluded providers,26
+Overall data-state audit,Modeled share,97.1%
+Overall data-state audit,Standard G-2 split records,689
+Overall data-state audit,Rural fallback records,39
+Overall data-state audit,Children's fallback records,28
+Overall data-state audit,Nonstandard fallback records,130
+Overall data-state audit,Nonstandard fallback failed plausibility records,1
+Overall data-state audit,G-2 total-only / no outpatient split records,5
+Overall data-state audit,Missing or unusable records,20
+Overall data-state audit,Old specialty fallback records present,0
+Overall data-state audit,Model-used net-to-gross outliers <=0 or >1.50,0
+Overall data-state audit,Exposure anomaly records,79
+Overall data-state audit,Modeled exposure anomaly records,79
+Coverage by clean provider group,Children's / pediatric,73 / 83 modeled (88%)
+Coverage by clean provider group,General acute / academic,604 / 618 modeled (97.7%)
+Coverage by clean provider group,Rural / CAH / IHS,68 / 68 modeled (100%)
+Coverage by clean provider group,Specialty / behavioral / rehab,141 / 143 modeled (98.6%)

@@ -1,0 +1,68 @@
+# Ignore old / archive folders
+old/
+
+# Ignore raw data
+FY2024/
+FY2025/
+Raw/
+raw/
+Data/
+data/
+HCRIS_Raw/
+
+# Ignore general intermediate processed files
+Processed/
+
+# Ignore intermediate / temporary outputs
+Output/intermediate/
+Output/temp/
+
+# Keep curated reproducibility files
+!Processed_Public/
+!Processed_Public/*.rds
+!Processed_Public/*.csv
+!Processed_Public/README.md
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# renv local package library
+renv/library/
+renv/staging/
+renv/python/
+
+# Keep renv reproducibility files
+!renv.lock
+!renv/activate.R
+!renv/settings.json
+
+# Temporary/system files
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# Sensitive/local config
+.env
+config.local
+secrets.*
+credentials.*
+
+# Keep Git LFS tracking file
+!.gitattributes
+
+# Exclude private / working LLM background materials
+Background info for LLM/
+
+# Exclude editable Word white paper draft; keep PDF version
+Universal Catastrophic Coverage with Health Savings Empowerment White Paper copy.docx
+
+# Exclude private / working LLM background materials
+Background info for LLM/
+
+# Exclude helper script used only to create .gitignore
+gitignore.R

@@ -1,0 +1,25 @@
+clean_provider_group,clean_provider_model_class,revenue_source_method,providers,model_included,model_excluded,revenue_use_for_model,revenue_present_but_not_model,exposure_missing_or_zero,low_exposure_ratio,very_low_exposure_ratio,high_exposure_ratio,exposure_anomaly,total_net_patient_revenue,total_gross_patient_revenue,total_net_outpatient_exposure
+Children's / pediatric,Children's / pediatric hospital,children_total_only_fallback,27,27,0,27,0,0,0,0,0,0,467797645,1065746780,210508940.25
+Children's / pediatric,Children's / pediatric hospital,missing_or_unusable,10,0,10,0,0,0,0,0,0,0,0,0,0
+Children's / pediatric,Children's / pediatric hospital,nonstandard_g200000_l04300_fallback,1,1,0,1,0,0,0,0,0,0,9563974,9563974,956397.4
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,45,45,0,45,0,0,2,2,2,4,5674659954,22587780277,2749582705.83525
+General acute / academic,Academic / major medical center,standard_g2_l028_split,40,40,0,40,0,0,0,0,0,0,70720467089,249658440565,36298425123.2079
+General acute / academic,Large hospital misclassified as CAH,nonstandard_g200000_l04300_fallback,39,39,0,39,0,0,0,0,1,1,3362176321,3838598814,383859881.4
+General acute / academic,Large hospital misclassified as CAH,standard_g2_l028_split,14,14,0,14,0,0,2,2,0,2,5525371341,28808297115,2510453874.23084
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,5,0,5,0,0,0,0,0,0,0,0,0,0
+General acute / academic,Short-term acute/general hospital,missing_or_unusable,9,0,9,0,0,0,0,0,0,0,0,0,0
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,511,511,0,511,0,0,4,3,30,34,160361597762,685944629880,87037483197.0714
+Rural / CAH / IHS,CAH candidate - internally safe,nonstandard_g200000_l04300_fallback,6,6,0,6,0,0,0,0,0,0,110841417,291165313,29116531.3
+Rural / CAH / IHS,CAH candidate - internally safe,standard_g2_l028_split,10,10,0,10,0,0,1,0,0,1,311618202,529114501,194577242.536886
+Rural / CAH / IHS,Rural primary care / IHS-like hospital,children_total_only_fallback,1,1,0,1,0,0,0,0,0,0,21498704,38065911,9674416.8
+Rural / CAH / IHS,Rural primary care / IHS-like hospital,nonstandard_g200000_l04300_fallback,1,1,0,1,0,0,0,0,0,0,65740777,116733530,11673353
+Rural / CAH / IHS,Rural primary care / IHS-like hospital,rural_g200000_l04300_fallback,39,39,0,39,0,0,0,0,0,0,6894414206,6860813454,2058244036.2
+Rural / CAH / IHS,Rural primary care / IHS-like hospital,standard_g2_l028_split,11,11,0,11,0,0,2,1,0,2,3713255435,15356389354,1802644085.08545
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,nonstandard_g200000_l04300_fallback,16,16,0,16,0,0,0,0,1,1,561089105,567657328,56765732.8
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,14,14,0,14,0,0,2,2,2,4,1312120515,4313983714,927627652.981034
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,missing_or_unusable,1,0,1,0,0,0,0,0,0,0,0,0,0
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_fallback_failed_plausibility,1,0,1,0,0,0,0,0,0,0,0,0,0
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,64,64,0,64,0,0,0,0,11,11,3352037633,5283762976,528376297.6
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,29,29,0,29,0,0,17,16,0,17,1333114613,2328530413,100114121.742891
+Specialty / behavioral / rehab,Rehab / LTCH / specialty hospital,nonstandard_g200000_l04300_fallback,3,3,0,3,0,0,0,0,0,0,66998873,84237194,8423719.4
+Specialty / behavioral / rehab,Rehab / LTCH / specialty hospital,standard_g2_l028_split,15,15,0,15,0,0,2,2,0,2,1054643782,2487418225,236092388.548799

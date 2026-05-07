@@ -1,0 +1,320 @@
+clean_provider_group,clean_provider_model_class,revenue_source_method,wksht_cd,line_num_chr,clmn_num_chr,n_reports,median_value,mean_value,total_value,min_value,max_value
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,02800,00300,4,111256403.5,115115564,460462256,93088260,144861189
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G300000,00100,00100,4,111256403.5,115115564,460462256,93088260,144861189
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G300000,00200,00100,4,80024655.5,77737142.75,310948571,35197060,115702200
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,01800,00300,4,56398047.5,65909013,263636052,6420535,144419422
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,02800,00100,4,54690628,60448265.75,241793063,6551202,125860605
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,03600,00100,4,44702315.5,44757401.5,179029606,3089037,86535938
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,06000,00100,4,44702315.5,44757401.5,179029606,3089037,86535938
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,02800,00200,4,43275970,54667298.25,218669193,601,132116652
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G300000,00300,00100,4,38950069,37378421.25,149513685,10159006,61454541
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,04300,00200,4,35358700,36051590,144206360,18016647,55472313
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G300000,00400,00100,4,35358700,36051590,144206360,18016647,55472313
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,02900,00200,4,33970594,35357537,141430148,18016647,55472313
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,01800,00100,4,28968256.5,32876144.5,131504578,6420535,67147530
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G100000,01100,00200,4,27061118.5,25974102.75,103896411,3083041,46691133
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G100000,00300,00200,4,27061118,25281201,101124804,311435,46691133
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G100000,00100,00200,4,25799260.5,23317301.25,93269205,2557155,39113529
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,01000,00100,4,25722371.5,26746945,106987780,130667,55412370
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,01000,00300,4,25722371.5,26746945,106987780,130667,55412370
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,01700,00100,4,25722371.5,26746945,106987780,130667,55412370
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,01700,00300,4,25722371.5,26746945,106987780,130667,55412370
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,05100,00100,4,22636083.5,23928781.5,95715126,6004,50436955
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,05200,00100,4,20193542.5,20828620,83314480,3083033,39844362
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,05900,00100,4,20193542.5,20828620,83314480,3083033,39844362
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G100000,01900,00200,4,20180633,20822165.25,83288661,3083033,39844362
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,03400,00100,4,19041143.5,19870801,79483204,90000,41310917
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,03500,00100,4,19041143.5,25374628,101498512,90000,63326225
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,00100,00100,4,15037055,21404286.75,85617147,130667,55412370
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G200000,00100,00300,4,15037055,21404286.75,85617147,130667,55412370
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,01100,00100,4,11558182.5,12725416,50901664,2025353,25759946
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,00400,00100,4,6578255,8639803.25,34559213,1522900,19879803
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G100000,00200,00200,4,6225776,1963899.75,7855599,-14434405,9838452
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G300000,02900,00100,4,6225776,1963899.75,7855599,-14434405,9838452
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G300000,02600,00100,4,6225774.5,1963899,7855596,-14434405,9838452
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,03000,00100,4,5909582,6657357.5,26629430,973684,13836582
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,04500,00100,4,5783880.5,5235341,20941364,6004,9367599
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G300000,00500,00100,4,5747082.5,1326831.25,5307325,-14517636,8330796
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G100000,01800,00200,4,5007796,5151937.5,20607750,8,10592150
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,02300,00100,4,3821848,6075346.75,24301387,3239623,13418068
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,04400,00100,4,2679488,2513996.75,10055987,87893,4609118
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,03700,00100,4,2350957.5,2308746.25,9234985,98832,4434238
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,00100,00100,4,702074.5,1390058.5,5560234,-117256,4273341
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G300000,02500,00100,4,478692,637067.75,2548271,83231,1507656
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,00800,00100,4,219474,315730,1262920,107452,716520
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G300000,02400,00100,4,156039,167743.25,670973,32935,325960
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,05000,00100,3,18067306,24924587.3333333,74773762,12657335,44049121
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,04900,00100,3,16188024,22993484,68980452,12586930,40205498
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,04700,00100,3,1879282,1931103.33333333,5793310,70405,3843623
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,03800,00100,3,804668,683220.333333333,2049661,377308,867685
+Children's / pediatric,Children's / pediatric hospital,standard_g2_l028_split,G000000,00700,00100,3,205294,639364.666666667,1918094,195676,1517124
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,02800,00300,5,34028464,26465997.8,132329989,1535096,42304695
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,00100,00100,5,34028464,26465997.8,132329989,1535096,42304695
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,03600,00100,5,20783620,22846477.8,114232389,2329992,50349389
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,06000,00100,5,20783620,22846477.8,114232389,2329992,50349389
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,00300,00100,5,13724824,14738601,73693005,1529710,28673317
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,01100,00100,5,12609295,10153708.6,50768543,1367735,19991031
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G100000,00100,00200,5,11228889,8336609,41683045,-11048939,27149413
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,05200,00100,5,10946606,10763769,53818845,-5282126,29577201
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,05900,00100,5,10946606,10763769,53818845,-5282126,29577201
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G100000,00300,00200,5,10946606,10760580.8,53802904,-5282129,29492332
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G100000,01100,00200,5,10946606,10760586.8,53802934,-5282129,29492332
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G100000,01900,00200,5,10946606,10746795.2,53733976,-5282126,29492332
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,02900,00200,5,9813103,13224038,66120190,3982546,30633653
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,04300,00200,5,9813103,13224038,66120190,3982546,30633653
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,00400,00100,5,9813103,13224038,66120190,3982546,30633653
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,05100,00100,5,7880226,12082708.8,60413544,185854,39402783
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,00200,00100,5,5355147,11727396.8,58636984,5386,27621706
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,00400,00100,5,5109278,4821997.4,24109987,1150945,11331350
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,04500,00100,5,4350594,4271370,21356850,185854,8545663
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,00100,00100,5,2778899,5786980.6,28934903,137125,14027132
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G100000,00200,00200,5,2342919,2423971.8,12119859,-729048,5766810
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,02600,00100,5,2342919,2423971.8,12119859,-729048,5766810
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,02900,00100,5,2342919,2423971.8,12119859,-729048,5766810
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,00500,00100,5,1421111,1514563,7572815,-2452836,5441901
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,03000,00100,5,937442,8027373.2,40136866,740796,35183370
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,02500,00100,5,921808,909408.8,4547044,150123,1918916
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,03800,00100,5,432776,684259,3421295,93846,1302793
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,03700,00100,5,358933,1553494,7767470,40981,6162318
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,04400,00100,5,263193,248119.8,1240599,51027,476291
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,01800,00300,4,15168412,14620551.75,58482207,434055,27711328
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,01500,00100,4,2801548.5,16189893.75,64759575,289633,58866845
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,02300,00100,4,2043095,2646822.5,10587290,317702,6183398
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,01900,00100,4,1261604.5,2143891.25,8575565,2240,6050116
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,03500,00100,4,370028,5831745,23326980,221461,22365463
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,02400,00100,4,120208.5,393410.25,1573641,6185,1327039
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,02800,00100,3,34028464,25956085,77868255,1535096,42304695
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,01000,00100,3,19040929,18056811.3333333,54170434,1535096,33594409
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,01000,00300,3,19040929,18056811.3333333,54170434,1535096,33594409
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,01700,00100,3,19040929,18056811.3333333,54170434,1535096,33594409
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,01700,00300,3,19040929,18056811.3333333,54170434,1535096,33594409
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,00100,00100,3,8156780,9275421,27826263,628554,19040929
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G200000,00100,00300,3,8156780,9275421,27826263,628554,19040929
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,05000,00100,3,3421058,13018898,39056694,48424,35587212
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,04300,00100,3,3301080,2388196,7164588,408592,3454916
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,00700,00100,3,740510,559402,1678206,46614,891082
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,00500,00100,3,572377,367495.666666667,1102487,-46980,577090
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,03100,00100,3,276255,3386506.66666667,10159520,221461,9661804
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G300000,00600,00100,3,194742,252737.666666667,758213,51688,511783
+General acute / academic,Short-term acute/general hospital,g2_total_only_no_outpatient_split,G000000,01300,00100,3,149847,2174320,6522960,132425,6240688
+General acute / academic,Short-term acute/general hospital,missing_or_unusable,G200000,02900,00200,6,146421056,154196568.166667,925179409,14642587,355974149
+General acute / academic,Short-term acute/general hospital,missing_or_unusable,G200000,04300,00200,6,146421056,154196568.166667,925179409,14642587,355974149
+General acute / academic,Short-term acute/general hospital,missing_or_unusable,G300000,00400,00100,6,146421056,154196568.166667,925179409,14642587,355974149
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02800,00300,34,102970593.5,137002228.852941,4658075781,553565,1038236774
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,00100,00100,34,102970593.5,137002228.852941,4658075781,553565,1038236774
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02800,00200,34,94202722,127944572.058824,4350115450,230,998274123
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,00300,00100,34,30565388,42142014.5,1432828493,494552,358659116
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,04300,00200,34,29976377,37675284.3529412,1280959668,1162376,309814551
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,00400,00100,34,29976377,37675284.3529412,1280959668,1162376,309814551
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02900,00200,34,27403313.5,37140833.9411765,1262788354,1162376,309814551
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,00300,00200,34,10667635,21534363.6176471,732168363,-209309904,193067860
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,01100,00200,34,10667635,21518541.4705882,731630410,-209309904,193067860
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02800,00100,34,6361686,9057656.79411765,307960331,553335,40888302
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,00200,00200,34,3674162,8235355.67647059,280002093,-14314031,94777571
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,02900,00100,34,3674162,8235355.67647059,280002093,-14314031,94777571
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,02600,00100,34,3386952,8168826.41176471,277740098,-14314031,94777571
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01000,00100,34,2333898,2903510.02941177,98719341,352035,8126229
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01000,00300,34,2333898,2903510.02941177,98719341,352035,8126229
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01700,00100,34,2333898,2968574.26470588,100931525,352035,8126229
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01700,00300,34,2333898,2968574.26470588,100931525,352035,8126229
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,00100,00100,34,2037641.5,2569224.79411765,87353643,94648,7845533
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,00100,00300,34,2037641.5,2569224.79411765,87353643,94648,7845533
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,02500,00100,34,1661517.5,3702096.26470588,125871273,52890,45933006
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,00500,00100,34,1442024.5,4466730.14705882,151868825,-16900498,48844565
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,03600,00100,33,23458243,41593665.5151515,1372590962,1572829,171393838
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,06000,00100,33,23458243,41593665.5151515,1372590962,1572829,171393838
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,00400,00100,33,8884171,13040804.8181818,430346559,91560,61105999
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,03000,00100,33,7911913,9681299.27272727,319482876,722283,26034385
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,05100,00100,33,7678943,22957996.8787879,757613897,-108701189,260937244
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,01900,00200,33,7081551,19146427.4848485,631832107,-209257485,193067857
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,01100,00100,33,6143285,30396068.0909091,1003070247,-4841542,273895355
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,04500,00100,33,4736061,7604846.15151515,250959923,-114598579,150742056
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,03700,00100,33,742977,6616701.45454545,218351148,22827,146284291
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,00200,00100,32,62489272,100788977.75,3225247288,4454,679577658
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,05200,00100,32,6752876.5,19218033.28125,614977065,-209257485,193067857
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,05900,00100,32,6752876.5,19218033.28125,614977065,-209257485,193067857
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,00100,00200,32,5452265.5,14130195.9375,452166270,-215032811,141819470
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,04400,00100,32,1517624,3982349.96875,127435199,4544,45325841
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,02400,00100,32,431782,1332256.90625,42632221,-1192,11989646
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01900,00300,31,20010428,45389025.6451613,1407059795,230,635638342
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01900,00200,31,19695584,44400918.8709677,1376428485,230,629616585
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,01500,00100,31,11202286,14530016.8387097,450430522,371480,44435367
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,02300,00100,31,6215351,7687691.4516129,238318435,214405,21639960
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,01200,00100,31,380829,1203299.09677419,37302272,2500,7030000
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01800,00300,30,66300024,91690607.3333333,2750718220,7935917,456478971
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01800,00200,30,63513805.5,85797954.7,2573938641,7337133,424792528
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01800,00100,30,3313191,5892652.63333333,176779579,228963,31686443
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,03500,00100,30,1362281.5,1667927.96666667,50037839,-218459866,138902102
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,03800,00100,30,688275.5,928231.333333333,27846940,33279,5099970
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,00700,00100,30,395419,1395967.23333333,41879017,6124,28065866
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01900,00100,29,463948,1056252.06896552,30631310,40376,6021757
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,05000,00100,27,3027716,18764962,506653974,35387,256205601
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,00500,00100,27,114383,4323631.11111111,116738040,-4013636,101922987
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,01300,00100,26,469799,711731,18505006,-181294,4506102
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,03400,00100,26,434311.5,4251220.07692308,110531722,-137268,45717701
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,04900,00100,25,1063400,18136280.8,453407020,26356,256205601
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,01900,00100,23,658493,1964285.65217391,45178570,2199,13953776
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02700,00300,23,112243,3023430.47826087,69538901,-220750,24604033
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,01800,00200,22,1558960.5,4536286.5,99798303,-52419,27102078
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02700,00200,21,122460,3370402.42857143,70778451,-31371,24604033
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,01200,00100,19,1274922,4055909.42105263,77062279,-52419,27102078
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,04300,00100,13,1111834,-9800442.46153846,-127405752,-138604580,2723845
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,00500,00100,12,366171.5,615840.666666667,7390088,169865,2283459
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,00500,00300,12,366171.5,615840.666666667,7390088,169865,2283459
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02000,00300,11,6514236,6449786.54545455,70947652,250770,14626281
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02000,00200,11,6509445,6449351,70942861,250770,14626281
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,03100,00100,11,1334557,14328401.9090909,157612421,131962,139039370
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,01700,00100,11,342538,146957.090909091,1616528,-3076390,1503976
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02001,00200,9,1466224,2290884.55555556,20617961,372740,4863436
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02001,00300,9,1466224,2290884.55555556,20617961,372740,4863436
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,01700,00100,9,859079,2107292.11111111,18965629,206829,6954573
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,04700,00100,8,4755075,6198317.5,49586540,173807,19008637
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,04000,00100,8,140038,306625.25,2453002,65585,1309644
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,00200,00100,7,12623480,25579991.2857143,179059939,289811,87297825
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02701,00300,6,2878897.5,26259400,157556400,53,146907862
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02701,00200,5,3063492,31419439.2,157097196,53,146907862
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,00600,00100,5,125394,167277.4,836387,7933,405501
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,00600,00300,5,125394,167277.4,836387,7933,405501
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,03600,00200,4,5210195.5,5450029.5,21800118,114447,11265280
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,01300,00100,4,4994931,4922635,19690540,219996,9480682
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,02300,00100,4,1616694,2872678,11490712,15217,8242107
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,04200,00200,4,739007,907201,3628804,2,2150788
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,00900,00100,4,533994.5,784805.75,3139223,219664,1851570
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,00900,00300,4,533994.5,784805.75,3139223,219664,1851570
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01600,00100,4,477205,553046,2212184,161112,1096662
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01600,00300,4,477205,553046,2212184,161112,1096662
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,02900,00100,4,179179,420069.25,1680277,29712,1292207
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,04800,00100,4,119430.5,915103.5,3660414,42075,3379478
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,03000,00100,3,4711422,5363716.33333333,16091149,114447,11265280
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02002,00200,3,3938813,4706285.66666667,14118857,2465619,7714425
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02002,00300,3,3938813,4706729.66666667,14120189,2465619,7715757
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02300,00300,3,1546424,2846512,8539536,1122953,5870159
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02300,00200,3,1493418,2823253.33333333,8469760,1122953,5853389
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02703,00200,3,1061972,5079076,15237228,1036683,13138573
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02703,00300,3,1061972,5197458.33333333,15592375,1036683,13493720
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,02700,00100,3,585179,640831.666666667,1922495,220487,1116829
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,01600,00100,3,536737,724683,2174049,1578,1635734
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01100,00100,3,305560,371840.666666667,1115522,161112,648850
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,01100,00300,3,305560,371840.666666667,1115522,161112,648850
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,03600,00200,3,234891,804071,2412213,52092,2125230
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,05300,00200,3,234891,804071,2412213,52092,2125230
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,05900,00200,3,234891,804071,2412213,52092,2125230
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G000000,06000,00200,3,234891,804071,2412213,52092,2125230
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,00100,00400,3,234891,782440,2347320,55076,2057353
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,00300,00400,3,234891,782440,2347320,55076,2057353
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,01100,00400,3,234891,797747,2393241,52092,2106258
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G100000,01900,00400,3,234891,804071,2412213,52092,2125230
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G200000,02701,00100,3,227072,153068,459204,132,232000
+General acute / academic,Short-term acute/general hospital,standard_g2_l028_split,G300000,02404,00100,3,155981,156352.333333333,469057,10274,302802
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,02800,00300,4,95721880.5,134247302.5,536989210,16847212,328698237
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G300000,00100,00100,4,95721880.5,134247302.5,536989210,16847212,328698237
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,02800,00200,4,79496338,121267062.25,485068249,301,326075272
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,02900,00200,4,33507532.5,43864518,175458072,10979259,97463748
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,04300,00200,4,33507532.5,43864518,175458072,10979259,97463748
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G300000,00400,00100,4,33507532.5,43864518,175458072,10979259,97463748
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G300000,00300,00100,4,27055374,41912105.5,167648422,16847212,96690462
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,02800,00100,4,15631718,12980240.25,51920961,2622965,18034560
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,01700,00100,4,10202703,9684017.75,38736071,296105,18034560
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,01700,00300,4,10202703,9684017.75,38736071,296105,18034560
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,00100,00100,4,9602509.5,9383921,37535684,296105,18034560
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,00100,00300,4,9602509.5,9383921,37535684,296105,18034560
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,01000,00100,4,9602509.5,9383921,37535684,296105,18034560
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,01000,00300,4,9602509.5,9383921,37535684,296105,18034560
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,01900,00300,4,6263231,17298946.75,69195787,301,56669024
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G200000,01900,00200,4,6204023.5,16516657.75,66066631,301,53658283
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G000000,05100,00100,4,5782641.5,11430824,45723296,749776,33408237
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G000000,04500,00100,4,4871417,5140836.25,20563345,749776,10070735
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G000000,00700,00100,4,3113285,3980328.75,15921315,867820,8826925
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G000000,03700,00100,4,1963370.5,3023540.25,12094161,-25893,8193313
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G100000,01000,00200,3,62609321,68624995.3333333,205874986,8826926,134438739
+Specialty / behavioral / rehab,Non-CAH specialty/other in CAH bucket,standard_g2_l028_split,G000000,03800,00100,3,1493785,1401900,4205700,797801,1914114
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,04300,00200,11,105981249,90561288.0909091,996174169,9664290,182219588
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G300000,00400,00100,11,105981249,90561288.0909091,996174169,9664290,182219588
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,02900,00200,11,104140202,89234442.6363636,981578869,9664290,182219588
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,02800,00100,11,7602808,30107763.8181818,331185402,1761750,107566137
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,02800,00300,11,7602808,30107763.8181818,331185402,1761750,107566137
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G300000,00100,00100,11,7602808,30107763.8181818,331185402,1761750,107566137
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,01000,00100,11,7526424,23937569,263313259,731510,107566137
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,01000,00300,11,7526424,23937569,263313259,731510,107566137
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,01700,00100,11,7526424,23937569,263313259,731510,107566137
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,01700,00300,11,7526424,23937569,263313259,731510,107566137
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G300000,00300,00100,11,3449599,3912533.54545455,43037869,653603,7602808
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,00100,00100,10,6946683,18555666.1,185556661,239415,74420376
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,00100,00300,10,6946683,18555666.1,185556661,239415,74420376
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G100000,00100,00200,7,106748000,29486885.4285714,206408198,-307632022,148796344
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,03600,00100,6,9778074.5,60122945.6666667,360737674,3370847,182219586
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,06000,00100,6,9778074.5,58745437,352472622,-4132526,182219586
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,01800,00100,6,2498208.5,2728589.16666667,16371535,76384,5661484
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,01800,00300,6,2498208.5,2728589.16666667,16371535,76384,5661484
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G300000,00200,00100,5,75190197,57629506.6,288147533,8809477,100106596
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G300000,02300,00100,5,49377868,46712022.4,233560112,8477197,94643823
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,01500,00100,5,14550080,43747292.8,218736464,4590313,157026852
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,03000,00100,5,9300802,36535720,182678600,5759018,147649872
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,05100,00100,5,4380505,38680928.8,193404644,-4132526,182219586
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,02300,00100,5,3367935,4776013.4,23880067,2559527,9537706
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,04500,00100,5,1784713,37162842.4,185814212,-4131251,182219586
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G300000,02500,00100,4,38135727.5,44886708,179546832,8493339,94782038
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,05200,00100,4,7587822,39766994.5,159067978,4049743,139842591
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,05900,00100,4,7587822,39766994.5,159067978,4049743,139842591
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G100000,01800,00200,4,6031243,16629256.25,66517025,1504,54453035
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,01100,00100,4,3970610,2491876.75,9967507,-2388171,4414458
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,03800,00100,4,3876931.5,17567210.25,70268841,-1955786,64470764
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,00900,00100,4,2309236.5,18330552.25,73322209,238762,68464974
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,00900,00300,4,2309236.5,18330552.25,73322209,238762,68464974
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,02700,00100,4,1878744,12875152,51500608,502012,47241108
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,02700,00300,4,1878744,12875152,51500608,502012,47241108
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,00100,00100,4,632479.5,604877.25,2419509,-2518768,3673318
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,00700,00100,4,404667,509366.75,2037467,130597,1097536
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G100000,01000,00200,3,17403025,16258359.6666667,48775079,13739423,17632631
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G100000,00400,00100,3,13856507,12093400.3333333,36280201,5020669,17403025
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,03600,00200,3,6356746,6569474.66666667,19708424,2575513,10776165
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G200000,03100,00100,3,5155670,5256178.33333333,15768535,798164,9814701
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,00400,00100,3,5020669,5135085,15405255,1913818,8470768
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,04900,00100,3,2595792,2530144,7590432,-1275,4995915
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,05000,00100,3,2595792,2530144,7590432,-1275,4995915
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G100000,01100,00400,3,290780,224515,673545,55262,327503
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,nonstandard_g200000_l04300_fallback,G000000,01200,00100,3,172321,2338358.33333333,7015075,67550,6775204
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,04300,00200,17,86986399,88170149.4117647,1498892540,29079714,200857026
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G300000,00400,00100,17,86986399,88170149.4117647,1498892540,29079714,200857026
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,02900,00200,17,80126063,84971114.7058824,1444508950,29079714,194278900
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,02800,00300,17,78894857,92132693.7058823,1566255793,25996074,185533837
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G300000,00100,00100,17,78894857,92132693.7058823,1566255793,25996074,185533837
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,02800,00100,17,78889857,92094178.5294118,1565601035,25977679,185509250
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,01700,00100,17,77818844,87072894.0588235,1480239199,22584147,174712074
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,01700,00300,17,77818844,87072894.0588235,1480239199,22584147,174712074
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,01000,00100,17,77652503,80525864.0588235,1368939689,7626621,174712074
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,01000,00300,17,77652503,80525864.0588235,1368939689,7626621,174712074
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,00100,00100,17,54150496,63447270.1176471,1078603592,1138387,169554170
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,00100,00300,17,54150496,63447270.1176471,1078603592,1138387,169554170
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G300000,00300,00100,17,52391016,61364204.8823529,1043191483,4040835,185190109
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G100000,01100,00200,17,3522253,-89263590.8235294,-1517481044,-569856120,356841330
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,03600,00100,15,16128423,-102645170.533333,-1539677558,-565364760,168499053
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,06000,00100,15,16128422,-102645170.533333,-1539677558,-565364760,168499051
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,05200,00100,15,9270173,-110321017.266667,-1654815259,-570474766,134945438
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,05900,00100,15,9270173,-110321017.266667,-1654815259,-570474766,134945438
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G100000,00100,00200,14,15439839.5,-114110926.5,-1597552971,-474822570,187207618
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,01800,00300,12,4556957.5,6906869.75,82882437,2402,20701772
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,05100,00100,10,5317330.5,11513770.1,115137701,-1044315,75298349
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,04500,00100,10,4072734.5,10085278.8,100852788,-1044315,75298349
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G300000,00200,00100,9,58183144,58118256.6666667,523064310,343728,126815203
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,03000,00100,9,16128423,41439864.6666667,372958782,377452,184232704
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,01800,00100,9,8568812,9136984.22222222,82232858,20,20695025
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,02300,00100,8,2777421.5,3671131.625,29369053,1386603,8372135
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G100000,01000,00200,7,35096742,105654877.428571,739584142,309322,468828169
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,01500,00100,7,30388238,68077571.1428572,476542998,23225180,175700719
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,03800,00100,6,4948957.5,3983255.5,23899533,416409,5400253
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,00700,00100,6,3602080,79612132.6666667,477672796,651253,463346265
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,03600,00200,5,8696300,11243910.8,56219554,4127842,26708809
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G100000,01800,00200,5,3277361,40496240.6,202481203,1,186192207
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,03100,00100,5,2423270,3481998.6,17409993,83977,7007019
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G100000,00400,00100,5,328953,94316939.8,471584699,2500,468828169
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G300000,02300,00100,4,24214729.5,27937925.25,111751701,4532437,58789805
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,03000,00100,4,5705627,6056507.5,24226030,626279,12188497
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,03200,00100,4,2043234,2657397,10629588,588225,5954895
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,01900,00100,4,1548631,2666864.5,10667458,540571,7029625
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,02700,00100,4,854586.5,771902.5,3087610,11267,1367170
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G200000,02700,00300,4,854586.5,771902.5,3087610,11267,1367170
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,01300,00100,4,630856.5,4230198.5,16920794,6620,15652461
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G100000,00500,00100,3,35096742,78835312.6666667,236505938,16643921,184765275
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G000000,00400,00100,3,14089021,17514944,52544832,207946,38247865
+Specialty / behavioral / rehab,Psychiatric / behavioral hospital,standard_g2_l028_split,G100000,01200,00100,3,405465,1227609,3682827,1,3277361

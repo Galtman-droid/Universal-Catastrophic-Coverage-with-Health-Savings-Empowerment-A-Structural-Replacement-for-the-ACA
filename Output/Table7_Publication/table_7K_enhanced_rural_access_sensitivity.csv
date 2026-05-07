@@ -1,0 +1,8 @@
+Scenario,Rural Providers,Net Patient Revenue ($B),Original Rural Net Impact ($B),Added Rural Support ($B),Net Impact After Rural Support ($B),Net Impact After Rural Support (% of NPR),Median Rural Provider Impact (% of NPR),Rural Providers Below -5% NPR,Rural Providers Below -10% NPR,Negative Rural Providers,Positive Rural Providers
+A. Current Base/Base; no added rural access support,68,11.117,-0.341,0,-0.341,-3.1,-2.7,10,0,66,2
+"B. Current rural access guarantee: 1% NPR, $3M cap",68,11.117,-0.341,0.081,-0.26,-2.3,-1.7,6,0,60,8
+"C. Enhanced rural access guarantee: 2% NPR, $5M cap",68,11.117,-0.341,0.149,-0.192,-1.7,-0.7,4,0,59,9
+"D. High rural access guarantee: 3% NPR, $7.5M cap",68,11.117,-0.341,0.224,-0.118,-1.1,0.3,0,0,28,40
+E. Enhanced guarantee + rural floor at -2.0% NPR,68,11.117,-0.341,0.195,-0.147,-1.3,-0.7,0,0,59,9
+F. Enhanced guarantee + rural floor at -1.5% NPR,68,11.117,-0.341,0.218,-0.123,-1.1,-0.7,0,0,59,9
+G. High guarantee + rural floor at -1.0% NPR,68,11.117,-0.341,0.299,-0.042,-0.4,0.3,0,0,28,40

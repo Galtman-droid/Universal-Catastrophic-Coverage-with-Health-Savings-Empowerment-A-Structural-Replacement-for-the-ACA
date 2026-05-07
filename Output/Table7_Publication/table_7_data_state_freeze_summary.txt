@@ -1,0 +1,31 @@
+Table 7 data-state freeze summary
+=================================
+
+Build year: 2024
+Generated: 2026-05-05 16:36:41.910118
+
+Backbone providers: 912
+Modeled providers: 886
+Excluded providers: 26
+Modeled share: 97.1%
+
+Coverage by clean provider group:
+Children's / pediatric: 73 / 83 modeled (88%)
+General acute / academic: 604 / 618 modeled (97.7%)
+Rural / CAH / IHS: 68 / 68 modeled (100%)
+Specialty / behavioral / rehab: 141 / 143 modeled (98.6%)
+
+Revenue source method counts:
+standard_g2_l028_split: 689
+rural_g200000_l04300_fallback: 39
+children_total_only_fallback: 28
+missing_or_unusable: 20
+nonstandard_g200000_l04300_fallback: 130
+g2_total_only_no_outpatient_split: 5
+nonstandard_fallback_failed_plausibility: 1
+
+Old specialty fallback method present: FALSE
+Corrected nonstandard fallback method present: TRUE
+Failed-plausibility method present: TRUE
+Model-used net-to-gross outliers <=0 or >1.50: 0
+Exposure anomaly records from 11A: 79

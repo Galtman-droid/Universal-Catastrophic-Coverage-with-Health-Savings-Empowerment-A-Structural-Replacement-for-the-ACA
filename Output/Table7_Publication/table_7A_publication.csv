@@ -1,0 +1,10 @@
+Repricing Scenario,Stabilization Scenario,Modeled Providers,Outpatient/Routine Exposure ($B),Repricing Pressure ($B),UC / Liquidity Offset ($B),Stabilization Support ($B),Net Provider Impact ($B),Net Impact (% of NPR),Negative-Impact Providers,Large Negative-Impact Providers,Median Provider Impact (% of NPR)
+Low repricing,Low stabilization,886,133.89,-6.69,1.15,0.15,-5.4,-2,865,6,-2
+Low repricing,Base stabilization,886,133.89,-6.69,1.15,0.3,-5.25,-2,859,6,-1.8
+Low repricing,High stabilization,886,133.89,-6.69,1.15,0.45,-5.1,-1.9,836,6,-1.7
+Base repricing,Low stabilization,886,135.15,-13.52,1.91,0.15,-11.45,-4.3,876,343,-4.3
+Base repricing,Base stabilization,886,135.15,-13.52,1.91,0.3,-11.3,-4.3,876,320,-4.2
+Base repricing,High stabilization,886,135.15,-13.52,1.91,0.45,-11.15,-4.2,866,307,-4.1
+High repricing,Low stabilization,886,136.42,-20.46,2.68,0.15,-17.64,-6.7,879,643,-7
+High repricing,Base stabilization,886,136.42,-20.46,2.68,0.3,-17.49,-6.6,877,634,-6.9
+High repricing,High stabilization,886,136.42,-20.46,2.68,0.45,-17.34,-6.5,876,621,-6.8

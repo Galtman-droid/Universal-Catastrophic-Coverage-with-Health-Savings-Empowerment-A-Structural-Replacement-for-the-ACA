@@ -1,0 +1,7 @@
+Case,Protection Design,Sunset Treatment,Modeled Providers,Total Net Patient Revenue ($B),Original Repricing Pressure ($B),Original UC / Liquidity Offset ($B),Original Stabilization Support ($B),Temporary Transition Support ($B),Permanent Rural Access Support ($B),Total Added Support ($B),Net Provider Impact After Support ($B),Net Impact After Support (% of NPR),Median Provider Impact After Support (% of NPR),Providers Below -5% NPR,Providers Below -10% NPR,Providers Negative,Providers Positive
+A,Current Base/Base; no additional support,No additional support,886,264.92,-13.52,1.91,0.3,0,0,0,-11.3,-4.3,-4.2,320,13,876,10
+B,Temporary large-negative-impact add-on for providers below -5% NPR,Temporary; sunsets after transition,886,264.92,-13.52,1.91,0.3,0.22,0,0.22,-11.09,-4.2,-4.2,320,12,876,10
+C,Temporary pediatric hold-harmless floor at -3% NPR,Temporary; sunsets after transition,886,264.92,-13.52,1.91,0.3,0.09,0,0.09,-11.21,-4.2,-4,300,13,876,10
+D,Permanent rural access guarantee,Permanent; formula-based and capped,886,264.92,-13.52,1.91,0.3,0,0.08,0.08,-11.22,-4.2,-4.2,316,13,870,16
+E,Temporary enhanced Tier 3 / Tier 4 stabilization,Temporary; sunsets after transition,886,264.92,-13.52,1.91,0.3,0.04,0,0.04,-11.26,-4.3,-4.1,320,13,866,20
+F,Combined temporary transition protection + permanent rural access guarantee,Temporary transition support sunsets; rural access support remains,886,264.92,-13.52,1.91,0.3,0.32,0.08,0.4,-10.9,-4.1,-4,303,12,860,26

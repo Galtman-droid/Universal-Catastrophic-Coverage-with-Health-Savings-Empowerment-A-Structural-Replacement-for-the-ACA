@@ -1,0 +1,5 @@
+Provider Group,Providers,Modeled Providers,Net Patient Revenue ($B),Outpatient/Routine Exposure ($B),Repricing Pressure ($B),UC / Liquidity Offset ($B),Stabilization Support ($B),Net Provider Impact ($B),Net Impact (% of NPR),Negative-Impact Providers,Large Negative-Impact Providers,Stabilization-Eligible Providers
+Children's / pediatric,83,73,$6.15,$2.96,-$0.30,$0.03,$0.03,-$0.24,-3.8%,71,20,83
+General acute / academic,618,604,$239.97,$126.23,-$12.62,$1.84,$0.22,-$10.57,-4.4%,600,256,155
+Rural / CAH / IHS,68,68,$11.12,$4.11,-$0.41,$0.03,$0.04,-$0.34,-3.1%,66,10,68
+Specialty / behavioral / rehab,143,141,$7.68,$1.86,-$0.19,$0.02,$0.01,-$0.15,-2.0%,139,34,17
