@@ -14,7 +14,7 @@ The repository also includes the CBO-style scoring workbook and related document
 Repository Contents
 1. HCRIS Provider-Impact Model
 
-The provider-impact model is implemented through a 27-script R pipeline. The scripts load raw FY2024 CMS HCRIS files, create a provider-level backbone, extract identity, revenue, beds/capacity, S-10 uncompensated-care data, G-2/G-3 revenue variables, validate provider classifications, construct stabilization eligibility, run provider-impact scenarios, audit coverage and exposure anomalies, and generate publication-grade tables and figures. The combined script file lists the full workflow from 00_install_required_packages.R through 17_make_table7_compact_publication_figures.R.
+The provider-impact model is implemented through a 27-script R pipeline. The scripts load raw FY2024 CMS HCRIS files, create a provider-level backbone, extract identity, revenue, beds/capacity, S-10 uncompensated-care data, G-2/G-3 revenue variables, validate provider classifications, construct stabilization eligibility, run provider-impact scenarios, audit coverage and exposure anomalies, and generate publication-grade tables and figures. The combined script file lists the full workflow from 00_install_required_packages.R through 15_make_table7_publication_grade_tables.R.
 
 Core model components include:
 
